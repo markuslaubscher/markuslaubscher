@@ -3,9 +3,9 @@
 
 <h1> Hello Fellow < Developers/ >! <img align="right" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> </h1>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=markuslaubscher.markuslaubscher)
+<!-- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=markuslaubscher.markuslaubscher)
 [![Github](https://img.shields.io/github/followers/markuslaubscher?label=Follow&style=social)](https://github.com/markuslaubscher)
-![GitHub User's stars](https://img.shields.io/github/stars/markuslaubscher?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/markuslaubscher?style=social) -->
 
 <div size='20px'>Thank You for taking the time to view my GitHub Profile <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" 
 width="30px"></div>
