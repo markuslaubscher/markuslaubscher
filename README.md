@@ -33,13 +33,17 @@ width="30px"></div>
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 [![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
+
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![Next](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
+
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![Prisma](https://skillicons.dev/icons?i=prisma)](https://prisma.io/)
-[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
+
 [![threejs](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTM)
