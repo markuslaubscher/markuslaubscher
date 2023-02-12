@@ -16,11 +16,15 @@ width="30px"></div>
 <h2> About Me <!--<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>--></h2>
 <img width="55%" align="right" alt="Github" src="https://github.com/markuslaubscher/markuslaubscher/master/animation_500_kxa883sd.gif" />
 
-- 👨‍💻 I do full stack web development
-  
-- 💬 Ask me about e-commerse
+- 👨‍💻 I do web development remotely and mostly in isolation. And use Git for version control and I'm a fan of the release flow model and trunk-based branching.
 
-- 🔥 I’m looking for remote web development work  
+- Currently using, and invested in, Node.js, TypeScript, React, Next, Express and Prisma. And develop front ends, api's and micro-services with this stack.
+
+- I have sharpened my teeth on the LAMP stack and php development mostly using Laravel and Codeigniter. And e-commerce database development with MySQL.
+  
+- 💬 Interested in e-commerce projects, crypto and web3.
+
+- 🔥 I’m looking for remote web development work. If you need a website, or a looking to hire a developer, or maybe have and idea for a startup then contact me please.
 
 - 📫 Email me at **markuslaubscher@gmail.com**
 
