@@ -66,8 +66,8 @@ width="30px"></div>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/markuslaubscher/markuslaubscher/master/handshake.gif' width="100px"> </h2>
 
-[![VSCode](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/markus-laubscher-768069265)
-[![VSCode](https://skillicons.dev/icons?i=github)](https://www.github.com/markuslaubscher)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/markus-laubscher-768069265)
+[![github](https://skillicons.dev/icons?i=github)](https://www.github.com/markuslaubscher)
   
 
 <br>
