@@ -59,7 +59,6 @@ width="30px"></div>
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
-[![Heroku](https://skillicons.dev/icons?i=heroku)](https://www.heroku.com/)
 
 [![Unit](https://skillicons.dev/icons?i=unity)](https://unity.com/)
 [![CSharp](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
