@@ -40,7 +40,7 @@ width="30px"></div>
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![Express](https://skillicons.dev/icons?i=prisma)](https://prisma.io/)
 [![Express](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
-[![VSCode](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
+[![threejs](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTM)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
