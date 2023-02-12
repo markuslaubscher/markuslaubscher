@@ -7,8 +7,7 @@
 [![Github](https://img.shields.io/github/followers/markuslaubscher?label=Follow&style=social)](https://github.com/markuslaubscher)
 ![GitHub User's stars](https://img.shields.io/github/stars/markuslaubscher?style=social) -->
 
-<div size='20px'>Thank You for taking the time to view my GitHub Profile <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" 
-width="30px"></div>
+<div size='20px'>Thank You for taking the time to view my GitHub Profile</div>
 <br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
@@ -73,3 +72,8 @@ width="30px"></div>
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/markus-laubscher-768069265)
 [![github](https://skillicons.dev/icons?i=github)](https://www.github.com/markuslaubscher)
 
+<br>
+<br>
+<br>
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
