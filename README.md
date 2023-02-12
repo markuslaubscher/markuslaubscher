@@ -72,11 +72,4 @@ width="30px"></div>
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/markus-laubscher-768069265)
 [![github](https://skillicons.dev/icons?i=github)](https://www.github.com/markuslaubscher)
-  
-
-<br>
-<br>
-<br>
-
-<h6 align="center">Copied & Pasted with ❤️</h6>
 
