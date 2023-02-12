@@ -50,7 +50,7 @@ width="30px"></div>
 [![php](https://skillicons.dev/icons?i=php)](http://www.php.net/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://en.wikipedia.org/wiki/Linux)
 [![Mysql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![LaravelLinux](https://skillicons.dev/icons?i=laravel)](https://www.laravel.com/)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://www.laravel.com/)
 [![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
 
 [![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
