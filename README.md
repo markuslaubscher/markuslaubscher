@@ -38,8 +38,8 @@ width="30px"></div>
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![Next](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
-[![Express](https://skillicons.dev/icons?i=prisma)](https://prisma.io/)
-[![Express](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://prisma.io/)
+[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
 [![threejs](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTM)
