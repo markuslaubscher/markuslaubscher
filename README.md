@@ -46,7 +46,6 @@ width="30px"></div>
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
-[![Bootstrap](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 
 [![php](https://skillicons.dev/icons?i=php)](http://www.php.net/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://en.wikipedia.org/wiki/Linux)
