@@ -62,9 +62,6 @@
 
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
 
-[![Unit](https://skillicons.dev/icons?i=unity)](https://unity.com/)
-[![CSharp](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-
 <br>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/markuslaubscher/markuslaubscher/master/handshake.gif' width="100px"> </h2>
