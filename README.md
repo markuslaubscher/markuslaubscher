@@ -1,31 +1,6 @@
-<!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1> Hello Fellow < Developers/ >! <img align="right" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> </h1>
-
-<!-- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=markuslaubscher.markuslaubscher)
-[![Github](https://img.shields.io/github/followers/markuslaubscher?label=Follow&style=social)](https://github.com/markuslaubscher)
-![GitHub User's stars](https://img.shields.io/github/stars/markuslaubscher?style=social) -->
-
-<div size='20px'>Thank You for taking the time to view my GitHub Profile</div>
-<br>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-<h2> About Me <!--<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>--></h2>
-<img width="55%" align="right" alt="Github" src="https://github.com/markuslaubscher/markuslaubscher/master/animation_500_kxa883sd.gif" />
-
-- 👨‍💻 I do web development remotely, and mostly in isolation. 
-
-- I develop SPA's with related restful-ish api's and databases.
-
-- If you need a corporate or e-commerse website, or maybe looking to hire a developer, or have an awesome idea for a internet startup then contact me.
-
-- 📫 **markuslaubscher@gmail.com**
-
-<br>
-
-<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<img align="right" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 
 [![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 
@@ -60,13 +35,12 @@
 
 <br>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/markuslaubscher/markuslaubscher/master/handshake.gif' width="100px"> </h2>
-
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/markus-laubscher-768069265)
 
+<br>
 
-<br>
-<br>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 <br>
 
 <img align="middle" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
